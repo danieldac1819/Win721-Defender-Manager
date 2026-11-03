@@ -120,3 +120,11 @@ For licensing, redistribution, or commercial use inquiries, please contact the d
 **Developed with ❤️ by 721PC-Net Corporation**
 
 [Facebook](https://www.facebook.com/721PC/?locale=vi_VN)
+
+
+##Download Now
+<img width="944" height="446" alt="image" src="https://github.com/user-attachments/assets/8c93354b-e76c-49e3-beb5-6376af24932a" />
+
+OR  https://www.mediafire.com/file/uesakbiga4xtzus/Win721DM.exe/file
+
+
