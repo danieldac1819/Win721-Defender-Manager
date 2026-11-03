@@ -21,7 +21,9 @@ The software is part of the 721PC software ecosystem, providing users with conve
 <img width="743" height="348" alt="image" src="https://github.com/user-attachments/assets/80b3f63f-da25-45dc-8a10-4aa111ec773b" />
 
 - **Win721 Defender Manager console**
+  
 Commands:
+
   Win721DM.exe /on defender
   
   Win721DM.exe /off defender
