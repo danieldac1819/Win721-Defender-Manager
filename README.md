@@ -66,7 +66,7 @@ Commands:
 
 1. Download the latest release from the [Releases](../..) page.
 2. Extract the downloaded archive.
-3. Run `Win721 Defender Manager.exe` as Administrator.
+3. Run `Win721DM.exe` as Administrator.
 4. Select the settings you want to manage.
 
 ## Usage
