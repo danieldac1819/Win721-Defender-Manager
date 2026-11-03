@@ -32,7 +32,7 @@ https://www.virustotal.com/gui/search?query=a6b266e2085afcf6860c438dc8a661c2
   - Lightweight and convenient.
  
 
-## Win721 Defender Manager console
+## Win721 Defender Manager console (Version Platinum)
   
 Commands:
 
