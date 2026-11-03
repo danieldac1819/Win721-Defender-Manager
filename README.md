@@ -20,7 +20,15 @@ The software is part of the 721PC software ecosystem, providing users with conve
   - Control automatic update behavior.
 <img width="743" height="348" alt="image" src="https://github.com/user-attachments/assets/80b3f63f-da25-45dc-8a10-4aa111ec773b" />
 
-- **Win721 Defender Manager console**
+<img width="747" height="355" alt="image" src="https://github.com/user-attachments/assets/2a0dd49d-d94a-4609-8c91-226055dc3ce0" />
+
+- **Simple and User-Friendly**
+  - Easy-to-use interface.
+  - Quick access to essential system settings.
+  - Lightweight and convenient.
+ 
+
+## Win721 Defender Manager console
   
 Commands:
 
@@ -36,12 +44,6 @@ Commands:
   
   Win721DM.exe /unexclusions ('<path>' or "<path>")
   
-<img width="747" height="355" alt="image" src="https://github.com/user-attachments/assets/2a0dd49d-d94a-4609-8c91-226055dc3ce0" />
-
-- **Simple and User-Friendly**
-  - Easy-to-use interface.
-  - Quick access to essential system settings.
-  - Lightweight and convenient.
 <img width="745" height="356" alt="image" src="https://github.com/user-attachments/assets/5c076f75-cc57-49f7-87f1-7f1001004080" />
 
 ## Supported Operating Systems
