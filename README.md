@@ -3,7 +3,7 @@
 **Win721 Defender Manager** is a lightweight Windows utility developed by **721PC-Net Corporation**, designed to help users manage Windows Defender and Windows Update settings through a simple and convenient interface.
 
 The software is part of the 721PC software ecosystem, providing users with convenient tools and services for managing their Windows systems.
-<img width="745" height="353" alt="image" src="https://github.com/user-attachments/assets/9dcecccd-b168-438c-97e0-68a30bbea5bd" />
+<img width="742" height="350" alt="image" src="https://github.com/user-attachments/assets/36006d5d-f2b6-49aa-9205-938963275b8a" />
 
 ## Analysis virustotal.com
 https://www.virustotal.com/gui/search?query=a6b266e2085afcf6860c438dc8a661c2
