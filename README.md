@@ -5,7 +5,13 @@
 The software is part of the 721PC software ecosystem, providing users with convenient tools and services for managing their Windows systems.
 <img width="742" height="350" alt="image" src="https://github.com/user-attachments/assets/36006d5d-f2b6-49aa-9205-938963275b8a" />
 
-## Analysis virustotal.com
+## Analysis virustotal.com (version new)
+https://www.virustotal.com/gui/file/6b5b7bd0e6bb0da58dafbf95f249acb57cb1a4067c64771b8000d47e2785dd15?nocache=1
+Cause:
+**The file was flagged as malicious by 1 out of 71 security vendors.
+This occurred due to the addition of a guided tour that automatically disables Tamper Protection.**
+
+## Analysis virustotal.com (version old)
 https://www.virustotal.com/gui/search?query=a6b266e2085afcf6860c438dc8a661c2
 <img width="866" height="214" alt="image" src="https://github.com/user-attachments/assets/e0cc9b3f-4012-44bc-ad64-a392e7a18764" />
 
